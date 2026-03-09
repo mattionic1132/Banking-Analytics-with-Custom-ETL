@@ -1,0 +1,1606 @@
+{
+  "accounts": [
+    {
+      "AccountID": "CB00001",
+      "CustomerEmail": "customer34@email.com",
+      "AccountType": "Checking",
+      "Balance": 17836.45,
+      "OpenDate": "2024-07-11",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00002",
+      "CustomerEmail": "customer99@email.com",
+      "AccountType": "Checking",
+      "Balance": 21585.04,
+      "OpenDate": "2025-04-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00003",
+      "CustomerEmail": "customer44@email.com",
+      "AccountType": "Checking",
+      "Balance": 17909.46,
+      "OpenDate": "2025-10-10",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00004",
+      "CustomerEmail": "customer35@email.com",
+      "AccountType": "Checking",
+      "Balance": 32475.29,
+      "OpenDate": "2024-06-10",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00005",
+      "CustomerEmail": "customer94@email.com",
+      "AccountType": "Checking",
+      "Balance": 23649.39,
+      "OpenDate": "2024-07-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00006",
+      "CustomerEmail": "customer65@email.com",
+      "AccountType": "Checking",
+      "Balance": 43672.42,
+      "OpenDate": "2024-08-08",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00007",
+      "CustomerEmail": "customer45@email.com",
+      "AccountType": "Checking",
+      "Balance": 37688.38,
+      "OpenDate": "2025-02-10",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00008",
+      "CustomerEmail": "customer61@email.com",
+      "AccountType": "Checking",
+      "Balance": 17063.56,
+      "OpenDate": "2026-01-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00009",
+      "CustomerEmail": "customer27@email.com",
+      "AccountType": "Savings",
+      "Balance": 37690.03,
+      "OpenDate": "2024-06-04",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00010",
+      "CustomerEmail": "customer29@email.com",
+      "AccountType": "Checking",
+      "Balance": 32843.64,
+      "OpenDate": "2024-04-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00011",
+      "CustomerEmail": "customer61@email.com",
+      "AccountType": "Checking",
+      "Balance": 48846.78,
+      "OpenDate": "2026-01-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00012",
+      "CustomerEmail": "customer64@email.com",
+      "AccountType": "Checking",
+      "Balance": 38839.68,
+      "OpenDate": "2025-01-31",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00013",
+      "CustomerEmail": "customer55@email.com",
+      "AccountType": "Checking",
+      "Balance": 15621.98,
+      "OpenDate": "2025-03-27",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00014",
+      "CustomerEmail": "customer64@email.com",
+      "AccountType": "Savings",
+      "Balance": 2378.86,
+      "OpenDate": "2024-07-18",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00015",
+      "CustomerEmail": "customer11@email.com",
+      "AccountType": "Checking",
+      "Balance": 862.63,
+      "OpenDate": "2025-07-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00016",
+      "CustomerEmail": "customer14@email.com",
+      "AccountType": "Savings",
+      "Balance": 19045.35,
+      "OpenDate": "2025-11-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00017",
+      "CustomerEmail": "customer96@email.com",
+      "AccountType": "Savings",
+      "Balance": 42566.16,
+      "OpenDate": "2025-04-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00018",
+      "CustomerEmail": "customer13@email.com",
+      "AccountType": "Checking",
+      "Balance": 24777.74,
+      "OpenDate": "2025-03-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00019",
+      "CustomerEmail": "customer74@email.com",
+      "AccountType": "Checking",
+      "Balance": 31383.58,
+      "OpenDate": "2024-06-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00020",
+      "CustomerEmail": "customer27@email.com",
+      "AccountType": "Savings",
+      "Balance": 29430.13,
+      "OpenDate": "2025-10-10",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00021",
+      "CustomerEmail": "customer71@email.com",
+      "AccountType": "Checking",
+      "Balance": 31351.62,
+      "OpenDate": "2026-01-16",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00022",
+      "CustomerEmail": "customer55@email.com",
+      "AccountType": "Checking",
+      "Balance": 8661.78,
+      "OpenDate": "2025-05-06",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00023",
+      "CustomerEmail": "customer54@email.com",
+      "AccountType": "Savings",
+      "Balance": 40426.55,
+      "OpenDate": "2025-01-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00024",
+      "CustomerEmail": "customer30@email.com",
+      "AccountType": "Savings",
+      "Balance": 8801.06,
+      "OpenDate": "2025-01-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00025",
+      "CustomerEmail": "customer86@email.com",
+      "AccountType": "Savings",
+      "Balance": 26675.87,
+      "OpenDate": "2024-03-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00026",
+      "CustomerEmail": "customer13@email.com",
+      "AccountType": "Checking",
+      "Balance": 3469.99,
+      "OpenDate": "2024-10-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00027",
+      "CustomerEmail": "customer87@email.com",
+      "AccountType": "Checking",
+      "Balance": 14284.25,
+      "OpenDate": "2024-06-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00028",
+      "CustomerEmail": "customer32@email.com",
+      "AccountType": "Checking",
+      "Balance": 36265.88,
+      "OpenDate": "2025-02-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00029",
+      "CustomerEmail": "customer8@email.com",
+      "AccountType": "Checking",
+      "Balance": 44881.27,
+      "OpenDate": "2024-10-22",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00030",
+      "CustomerEmail": "customer92@email.com",
+      "AccountType": "Checking",
+      "Balance": 32906.78,
+      "OpenDate": "2025-09-18",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00031",
+      "CustomerEmail": "customer61@email.com",
+      "AccountType": "Checking",
+      "Balance": 36936.31,
+      "OpenDate": "2026-02-22",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00032",
+      "CustomerEmail": "customer78@email.com",
+      "AccountType": "Checking",
+      "Balance": 13726.29,
+      "OpenDate": "2026-01-20",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00033",
+      "CustomerEmail": "customer61@email.com",
+      "AccountType": "Savings",
+      "Balance": 29716.75,
+      "OpenDate": "2025-08-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00034",
+      "CustomerEmail": "customer66@email.com",
+      "AccountType": "Checking",
+      "Balance": 49542.83,
+      "OpenDate": "2024-10-04",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00035",
+      "CustomerEmail": "customer74@email.com",
+      "AccountType": "Savings",
+      "Balance": 42419.32,
+      "OpenDate": "2025-04-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00036",
+      "CustomerEmail": "customer41@email.com",
+      "AccountType": "Checking",
+      "Balance": 28262.07,
+      "OpenDate": "2024-11-13",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00037",
+      "CustomerEmail": "customer67@email.com",
+      "AccountType": "Savings",
+      "Balance": 47339.66,
+      "OpenDate": "2025-06-28",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00038",
+      "CustomerEmail": "customer69@email.com",
+      "AccountType": "Savings",
+      "Balance": 39485.36,
+      "OpenDate": "2026-01-27",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00039",
+      "CustomerEmail": "customer11@email.com",
+      "AccountType": "Checking",
+      "Balance": 12576.63,
+      "OpenDate": "2024-12-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00040",
+      "CustomerEmail": "customer10@email.com",
+      "AccountType": "Savings",
+      "Balance": 29603.44,
+      "OpenDate": "2025-05-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00041",
+      "CustomerEmail": "customer12@email.com",
+      "AccountType": "Checking",
+      "Balance": 47602.4,
+      "OpenDate": "2025-07-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00042",
+      "CustomerEmail": "customer80@email.com",
+      "AccountType": "Savings",
+      "Balance": 49797.37,
+      "OpenDate": "2024-07-14",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00043",
+      "CustomerEmail": "customer18@email.com",
+      "AccountType": "Checking",
+      "Balance": 21688.43,
+      "OpenDate": "2024-06-25",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00044",
+      "CustomerEmail": "customer8@email.com",
+      "AccountType": "Savings",
+      "Balance": 40315.88,
+      "OpenDate": "2024-10-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00045",
+      "CustomerEmail": "customer97@email.com",
+      "AccountType": "Savings",
+      "Balance": 35084.42,
+      "OpenDate": "2025-04-18",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00046",
+      "CustomerEmail": "customer43@email.com",
+      "AccountType": "Checking",
+      "Balance": 23128.99,
+      "OpenDate": "2025-08-22",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00047",
+      "CustomerEmail": "customer43@email.com",
+      "AccountType": "Checking",
+      "Balance": 33702.09,
+      "OpenDate": "2024-08-13",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00048",
+      "CustomerEmail": "customer55@email.com",
+      "AccountType": "Checking",
+      "Balance": 7872.04,
+      "OpenDate": "2025-11-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00049",
+      "CustomerEmail": "customer96@email.com",
+      "AccountType": "Savings",
+      "Balance": 40345.8,
+      "OpenDate": "2025-06-27",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00050",
+      "CustomerEmail": "customer68@email.com",
+      "AccountType": "Savings",
+      "Balance": 44979.89,
+      "OpenDate": "2025-09-13",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00051",
+      "CustomerEmail": "customer47@email.com",
+      "AccountType": "Savings",
+      "Balance": 21399.7,
+      "OpenDate": "2024-12-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00052",
+      "CustomerEmail": "customer77@email.com",
+      "AccountType": "Savings",
+      "Balance": 18046.5,
+      "OpenDate": "2025-04-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00053",
+      "CustomerEmail": "customer99@email.com",
+      "AccountType": "Savings",
+      "Balance": 7018.8,
+      "OpenDate": "2025-06-20",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00054",
+      "CustomerEmail": "customer95@email.com",
+      "AccountType": "Checking",
+      "Balance": 29536.04,
+      "OpenDate": "2024-09-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00055",
+      "CustomerEmail": "customer99@email.com",
+      "AccountType": "Checking",
+      "Balance": 46066.76,
+      "OpenDate": "2025-03-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00056",
+      "CustomerEmail": "customer93@email.com",
+      "AccountType": "Checking",
+      "Balance": 46936.13,
+      "OpenDate": "2025-03-02",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00057",
+      "CustomerEmail": "customer12@email.com",
+      "AccountType": "Checking",
+      "Balance": 4768.32,
+      "OpenDate": "2024-08-18",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00058",
+      "CustomerEmail": "customer88@email.com",
+      "AccountType": "Checking",
+      "Balance": 1432.05,
+      "OpenDate": "2026-03-05",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00059",
+      "CustomerEmail": "customer2@email.com",
+      "AccountType": "Checking",
+      "Balance": 47884.21,
+      "OpenDate": "2024-11-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00060",
+      "CustomerEmail": "customer44@email.com",
+      "AccountType": "Checking",
+      "Balance": 37571.28,
+      "OpenDate": "2026-02-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00061",
+      "CustomerEmail": "customer34@email.com",
+      "AccountType": "Savings",
+      "Balance": 40865.53,
+      "OpenDate": "2025-10-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00062",
+      "CustomerEmail": "customer60@email.com",
+      "AccountType": "Savings",
+      "Balance": 45722.43,
+      "OpenDate": "2025-09-18",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00063",
+      "CustomerEmail": "customer65@email.com",
+      "AccountType": "Checking",
+      "Balance": 47415.58,
+      "OpenDate": "2025-12-30",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00064",
+      "CustomerEmail": "customer73@email.com",
+      "AccountType": "Savings",
+      "Balance": 11598.52,
+      "OpenDate": "2026-02-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00065",
+      "CustomerEmail": "customer64@email.com",
+      "AccountType": "Checking",
+      "Balance": 27162.9,
+      "OpenDate": "2024-06-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00066",
+      "CustomerEmail": "customer6@email.com",
+      "AccountType": "Checking",
+      "Balance": 34182.21,
+      "OpenDate": "2024-07-13",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00067",
+      "CustomerEmail": "customer89@email.com",
+      "AccountType": "Savings",
+      "Balance": 21369.16,
+      "OpenDate": "2025-04-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00068",
+      "CustomerEmail": "customer49@email.com",
+      "AccountType": "Savings",
+      "Balance": 10112.07,
+      "OpenDate": "2025-09-14",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00069",
+      "CustomerEmail": "customer75@email.com",
+      "AccountType": "Savings",
+      "Balance": 14450.65,
+      "OpenDate": "2025-12-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00070",
+      "CustomerEmail": "customer88@email.com",
+      "AccountType": "Savings",
+      "Balance": 43168.74,
+      "OpenDate": "2025-03-11",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00071",
+      "CustomerEmail": "customer52@email.com",
+      "AccountType": "Checking",
+      "Balance": 42300.03,
+      "OpenDate": "2024-03-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00072",
+      "CustomerEmail": "customer58@email.com",
+      "AccountType": "Checking",
+      "Balance": 18386.0,
+      "OpenDate": "2024-11-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00073",
+      "CustomerEmail": "customer61@email.com",
+      "AccountType": "Checking",
+      "Balance": 40033.03,
+      "OpenDate": "2025-01-25",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00074",
+      "CustomerEmail": "customer77@email.com",
+      "AccountType": "Checking",
+      "Balance": 33868.93,
+      "OpenDate": "2024-07-25",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00075",
+      "CustomerEmail": "customer91@email.com",
+      "AccountType": "Checking",
+      "Balance": 26935.3,
+      "OpenDate": "2024-07-02",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00076",
+      "CustomerEmail": "customer88@email.com",
+      "AccountType": "Checking",
+      "Balance": 23673.96,
+      "OpenDate": "2025-03-08",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00077",
+      "CustomerEmail": "customer97@email.com",
+      "AccountType": "Checking",
+      "Balance": 41690.77,
+      "OpenDate": "2024-04-29",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00078",
+      "CustomerEmail": "customer90@email.com",
+      "AccountType": "Savings",
+      "Balance": 18315.11,
+      "OpenDate": "2024-03-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00079",
+      "CustomerEmail": "customer60@email.com",
+      "AccountType": "Checking",
+      "Balance": 49915.51,
+      "OpenDate": "2024-11-05",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00080",
+      "CustomerEmail": "customer51@email.com",
+      "AccountType": "Savings",
+      "Balance": 49601.6,
+      "OpenDate": "2025-09-03",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00081",
+      "CustomerEmail": "customer48@email.com",
+      "AccountType": "Savings",
+      "Balance": 15124.75,
+      "OpenDate": "2024-07-31",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00082",
+      "CustomerEmail": "customer84@email.com",
+      "AccountType": "Savings",
+      "Balance": 36809.91,
+      "OpenDate": "2024-08-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00083",
+      "CustomerEmail": "customer8@email.com",
+      "AccountType": "Checking",
+      "Balance": 30447.5,
+      "OpenDate": "2025-08-29",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00084",
+      "CustomerEmail": "customer88@email.com",
+      "AccountType": "Savings",
+      "Balance": 31843.3,
+      "OpenDate": "2024-05-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00085",
+      "CustomerEmail": "customer31@email.com",
+      "AccountType": "Savings",
+      "Balance": 16363.54,
+      "OpenDate": "2025-04-29",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00086",
+      "CustomerEmail": "customer81@email.com",
+      "AccountType": "Savings",
+      "Balance": 45547.04,
+      "OpenDate": "2025-02-27",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00087",
+      "CustomerEmail": "customer32@email.com",
+      "AccountType": "Savings",
+      "Balance": 39726.24,
+      "OpenDate": "2024-11-20",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00088",
+      "CustomerEmail": "customer2@email.com",
+      "AccountType": "Checking",
+      "Balance": 47101.68,
+      "OpenDate": "2024-05-20",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00089",
+      "CustomerEmail": "customer86@email.com",
+      "AccountType": "Savings",
+      "Balance": 12044.06,
+      "OpenDate": "2024-04-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00090",
+      "CustomerEmail": "customer24@email.com",
+      "AccountType": "Savings",
+      "Balance": 46371.31,
+      "OpenDate": "2025-07-06",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00091",
+      "CustomerEmail": "customer99@email.com",
+      "AccountType": "Savings",
+      "Balance": 15437.13,
+      "OpenDate": "2025-03-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00092",
+      "CustomerEmail": "customer55@email.com",
+      "AccountType": "Checking",
+      "Balance": 42311.66,
+      "OpenDate": "2025-06-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00093",
+      "CustomerEmail": "customer92@email.com",
+      "AccountType": "Savings",
+      "Balance": 20873.2,
+      "OpenDate": "2024-07-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00094",
+      "CustomerEmail": "customer19@email.com",
+      "AccountType": "Checking",
+      "Balance": 17210.43,
+      "OpenDate": "2024-04-28",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00095",
+      "CustomerEmail": "customer83@email.com",
+      "AccountType": "Savings",
+      "Balance": 5670.46,
+      "OpenDate": "2024-12-05",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00096",
+      "CustomerEmail": "customer23@email.com",
+      "AccountType": "Savings",
+      "Balance": 47530.13,
+      "OpenDate": "2025-07-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00097",
+      "CustomerEmail": "customer92@email.com",
+      "AccountType": "Savings",
+      "Balance": 28033.7,
+      "OpenDate": "2025-05-16",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00098",
+      "CustomerEmail": "customer54@email.com",
+      "AccountType": "Checking",
+      "Balance": 10770.9,
+      "OpenDate": "2026-01-23",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00099",
+      "CustomerEmail": "customer77@email.com",
+      "AccountType": "Savings",
+      "Balance": 46193.12,
+      "OpenDate": "2024-08-30",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00100",
+      "CustomerEmail": "customer13@email.com",
+      "AccountType": "Checking",
+      "Balance": 44035.01,
+      "OpenDate": "2024-11-30",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00101",
+      "CustomerEmail": "customer2@email.com",
+      "AccountType": "Savings",
+      "Balance": 2823.03,
+      "OpenDate": "2025-07-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00102",
+      "CustomerEmail": "customer57@email.com",
+      "AccountType": "Checking",
+      "Balance": 21810.82,
+      "OpenDate": "2024-03-18",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00103",
+      "CustomerEmail": "customer17@email.com",
+      "AccountType": "Savings",
+      "Balance": 34882.82,
+      "OpenDate": "2026-02-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00104",
+      "CustomerEmail": "customer5@email.com",
+      "AccountType": "Checking",
+      "Balance": 28964.3,
+      "OpenDate": "2024-08-04",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00105",
+      "CustomerEmail": "customer98@email.com",
+      "AccountType": "Savings",
+      "Balance": 34847.67,
+      "OpenDate": "2024-10-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00106",
+      "CustomerEmail": "customer98@email.com",
+      "AccountType": "Checking",
+      "Balance": 49400.04,
+      "OpenDate": "2024-10-14",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00107",
+      "CustomerEmail": "customer56@email.com",
+      "AccountType": "Checking",
+      "Balance": 37987.66,
+      "OpenDate": "2025-12-05",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00108",
+      "CustomerEmail": "customer23@email.com",
+      "AccountType": "Savings",
+      "Balance": 38836.6,
+      "OpenDate": "2026-02-13",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00109",
+      "CustomerEmail": "customer62@email.com",
+      "AccountType": "Savings",
+      "Balance": 2249.78,
+      "OpenDate": "2026-01-11",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00110",
+      "CustomerEmail": "customer98@email.com",
+      "AccountType": "Checking",
+      "Balance": 43187.06,
+      "OpenDate": "2025-02-02",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00111",
+      "CustomerEmail": "customer15@email.com",
+      "AccountType": "Savings",
+      "Balance": 42314.89,
+      "OpenDate": "2025-06-04",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00112",
+      "CustomerEmail": "customer5@email.com",
+      "AccountType": "Savings",
+      "Balance": 30510.91,
+      "OpenDate": "2025-09-25",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00113",
+      "CustomerEmail": "customer77@email.com",
+      "AccountType": "Checking",
+      "Balance": 1435.09,
+      "OpenDate": "2024-10-31",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00114",
+      "CustomerEmail": "customer26@email.com",
+      "AccountType": "Savings",
+      "Balance": 26418.72,
+      "OpenDate": "2024-12-18",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00115",
+      "CustomerEmail": "customer8@email.com",
+      "AccountType": "Checking",
+      "Balance": 9225.39,
+      "OpenDate": "2025-07-06",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00116",
+      "CustomerEmail": "customer100@email.com",
+      "AccountType": "Savings",
+      "Balance": 42041.09,
+      "OpenDate": "2025-10-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00117",
+      "CustomerEmail": "customer51@email.com",
+      "AccountType": "Checking",
+      "Balance": 8574.35,
+      "OpenDate": "2025-01-15",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00118",
+      "CustomerEmail": "customer43@email.com",
+      "AccountType": "Checking",
+      "Balance": 40681.98,
+      "OpenDate": "2026-03-03",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00119",
+      "CustomerEmail": "customer53@email.com",
+      "AccountType": "Savings",
+      "Balance": 16034.68,
+      "OpenDate": "2024-09-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00120",
+      "CustomerEmail": "customer18@email.com",
+      "AccountType": "Checking",
+      "Balance": 4101.93,
+      "OpenDate": "2025-05-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00121",
+      "CustomerEmail": "customer37@email.com",
+      "AccountType": "Checking",
+      "Balance": 28188.55,
+      "OpenDate": "2025-05-02",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00122",
+      "CustomerEmail": "customer49@email.com",
+      "AccountType": "Checking",
+      "Balance": 8361.48,
+      "OpenDate": "2025-07-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00123",
+      "CustomerEmail": "customer99@email.com",
+      "AccountType": "Checking",
+      "Balance": 2787.36,
+      "OpenDate": "2025-08-02",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00124",
+      "CustomerEmail": "customer77@email.com",
+      "AccountType": "Checking",
+      "Balance": 38680.61,
+      "OpenDate": "2024-08-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00125",
+      "CustomerEmail": "customer80@email.com",
+      "AccountType": "Savings",
+      "Balance": 44007.29,
+      "OpenDate": "2024-05-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00126",
+      "CustomerEmail": "customer17@email.com",
+      "AccountType": "Checking",
+      "Balance": 19417.26,
+      "OpenDate": "2025-06-11",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00127",
+      "CustomerEmail": "customer67@email.com",
+      "AccountType": "Savings",
+      "Balance": 22764.46,
+      "OpenDate": "2024-07-04",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00128",
+      "CustomerEmail": "customer87@email.com",
+      "AccountType": "Savings",
+      "Balance": 38730.84,
+      "OpenDate": "2024-05-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00129",
+      "CustomerEmail": "customer62@email.com",
+      "AccountType": "Checking",
+      "Balance": 24704.65,
+      "OpenDate": "2025-09-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00130",
+      "CustomerEmail": "customer78@email.com",
+      "AccountType": "Checking",
+      "Balance": 25438.0,
+      "OpenDate": "2024-08-23",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00131",
+      "CustomerEmail": "customer82@email.com",
+      "AccountType": "Checking",
+      "Balance": 26238.08,
+      "OpenDate": "2024-10-11",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00132",
+      "CustomerEmail": "customer35@email.com",
+      "AccountType": "Checking",
+      "Balance": 4780.35,
+      "OpenDate": "2024-07-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00133",
+      "CustomerEmail": "customer23@email.com",
+      "AccountType": "Checking",
+      "Balance": 20038.2,
+      "OpenDate": "2024-09-28",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00134",
+      "CustomerEmail": "customer85@email.com",
+      "AccountType": "Checking",
+      "Balance": 36405.7,
+      "OpenDate": "2025-05-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00135",
+      "CustomerEmail": "customer49@email.com",
+      "AccountType": "Savings",
+      "Balance": 33178.82,
+      "OpenDate": "2024-05-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00136",
+      "CustomerEmail": "customer73@email.com",
+      "AccountType": "Savings",
+      "Balance": 724.74,
+      "OpenDate": "2024-06-14",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00137",
+      "CustomerEmail": "customer12@email.com",
+      "AccountType": "Checking",
+      "Balance": 26442.31,
+      "OpenDate": "2025-11-16",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00138",
+      "CustomerEmail": "customer86@email.com",
+      "AccountType": "Checking",
+      "Balance": 20306.4,
+      "OpenDate": "2025-04-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00139",
+      "CustomerEmail": "customer33@email.com",
+      "AccountType": "Checking",
+      "Balance": 38398.71,
+      "OpenDate": "2025-06-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00140",
+      "CustomerEmail": "customer7@email.com",
+      "AccountType": "Checking",
+      "Balance": 3877.88,
+      "OpenDate": "2025-07-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00141",
+      "CustomerEmail": "customer35@email.com",
+      "AccountType": "Savings",
+      "Balance": 4696.3,
+      "OpenDate": "2025-10-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00142",
+      "CustomerEmail": "customer40@email.com",
+      "AccountType": "Savings",
+      "Balance": 35346.12,
+      "OpenDate": "2024-12-30",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00143",
+      "CustomerEmail": "customer78@email.com",
+      "AccountType": "Checking",
+      "Balance": 16046.66,
+      "OpenDate": "2024-11-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00144",
+      "CustomerEmail": "customer22@email.com",
+      "AccountType": "Checking",
+      "Balance": 45357.98,
+      "OpenDate": "2025-05-29",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00145",
+      "CustomerEmail": "customer41@email.com",
+      "AccountType": "Savings",
+      "Balance": 10226.17,
+      "OpenDate": "2025-10-28",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00146",
+      "CustomerEmail": "customer18@email.com",
+      "AccountType": "Checking",
+      "Balance": 20464.91,
+      "OpenDate": "2025-12-30",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00147",
+      "CustomerEmail": "customer73@email.com",
+      "AccountType": "Savings",
+      "Balance": 33811.37,
+      "OpenDate": "2025-06-10",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00148",
+      "CustomerEmail": "customer64@email.com",
+      "AccountType": "Checking",
+      "Balance": 13396.2,
+      "OpenDate": "2025-06-20",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00149",
+      "CustomerEmail": "customer87@email.com",
+      "AccountType": "Savings",
+      "Balance": 4568.22,
+      "OpenDate": "2024-10-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00150",
+      "CustomerEmail": "customer95@email.com",
+      "AccountType": "Savings",
+      "Balance": 29148.71,
+      "OpenDate": "2025-11-25",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00151",
+      "CustomerEmail": "customer3@email.com",
+      "AccountType": "Checking",
+      "Balance": 11563.74,
+      "OpenDate": "2025-10-01",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00152",
+      "CustomerEmail": "customer85@email.com",
+      "AccountType": "Checking",
+      "Balance": 8708.8,
+      "OpenDate": "2026-01-13",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00153",
+      "CustomerEmail": "customer28@email.com",
+      "AccountType": "Checking",
+      "Balance": 8058.87,
+      "OpenDate": "2025-06-29",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00154",
+      "CustomerEmail": "customer68@email.com",
+      "AccountType": "Checking",
+      "Balance": 9989.94,
+      "OpenDate": "2025-08-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00155",
+      "CustomerEmail": "customer50@email.com",
+      "AccountType": "Checking",
+      "Balance": 19283.72,
+      "OpenDate": "2026-02-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00156",
+      "CustomerEmail": "customer24@email.com",
+      "AccountType": "Checking",
+      "Balance": 19966.96,
+      "OpenDate": "2025-03-10",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00157",
+      "CustomerEmail": "customer12@email.com",
+      "AccountType": "Checking",
+      "Balance": 25135.1,
+      "OpenDate": "2024-08-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00158",
+      "CustomerEmail": "customer83@email.com",
+      "AccountType": "Checking",
+      "Balance": 22081.17,
+      "OpenDate": "2024-07-16",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00159",
+      "CustomerEmail": "customer40@email.com",
+      "AccountType": "Checking",
+      "Balance": 11943.67,
+      "OpenDate": "2024-03-10",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00160",
+      "CustomerEmail": "customer44@email.com",
+      "AccountType": "Savings",
+      "Balance": 21172.95,
+      "OpenDate": "2025-11-06",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00161",
+      "CustomerEmail": "customer41@email.com",
+      "AccountType": "Checking",
+      "Balance": 44986.1,
+      "OpenDate": "2024-09-04",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00162",
+      "CustomerEmail": "customer39@email.com",
+      "AccountType": "Savings",
+      "Balance": 15573.87,
+      "OpenDate": "2024-08-23",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00163",
+      "CustomerEmail": "customer88@email.com",
+      "AccountType": "Savings",
+      "Balance": 45522.09,
+      "OpenDate": "2024-05-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00164",
+      "CustomerEmail": "customer45@email.com",
+      "AccountType": "Savings",
+      "Balance": 24888.1,
+      "OpenDate": "2026-02-28",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00165",
+      "CustomerEmail": "customer80@email.com",
+      "AccountType": "Checking",
+      "Balance": 11523.45,
+      "OpenDate": "2025-11-21",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00166",
+      "CustomerEmail": "customer78@email.com",
+      "AccountType": "Checking",
+      "Balance": 17114.85,
+      "OpenDate": "2025-06-28",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00167",
+      "CustomerEmail": "customer79@email.com",
+      "AccountType": "Savings",
+      "Balance": 9117.96,
+      "OpenDate": "2024-06-29",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00168",
+      "CustomerEmail": "customer89@email.com",
+      "AccountType": "Savings",
+      "Balance": 48991.51,
+      "OpenDate": "2024-06-27",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00169",
+      "CustomerEmail": "customer6@email.com",
+      "AccountType": "Savings",
+      "Balance": 21536.48,
+      "OpenDate": "2024-07-14",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00170",
+      "CustomerEmail": "customer61@email.com",
+      "AccountType": "Savings",
+      "Balance": 4898.62,
+      "OpenDate": "2025-03-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00171",
+      "CustomerEmail": "customer95@email.com",
+      "AccountType": "Checking",
+      "Balance": 48263.75,
+      "OpenDate": "2026-01-16",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00172",
+      "CustomerEmail": "customer82@email.com",
+      "AccountType": "Savings",
+      "Balance": 9391.44,
+      "OpenDate": "2024-03-08",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00173",
+      "CustomerEmail": "customer39@email.com",
+      "AccountType": "Checking",
+      "Balance": 27632.28,
+      "OpenDate": "2024-11-14",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00174",
+      "CustomerEmail": "customer68@email.com",
+      "AccountType": "Checking",
+      "Balance": 39629.96,
+      "OpenDate": "2024-05-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00175",
+      "CustomerEmail": "customer25@email.com",
+      "AccountType": "Savings",
+      "Balance": 2305.38,
+      "OpenDate": "2026-02-01",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00176",
+      "CustomerEmail": "customer36@email.com",
+      "AccountType": "Savings",
+      "Balance": 25837.43,
+      "OpenDate": "2024-04-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00177",
+      "CustomerEmail": "customer18@email.com",
+      "AccountType": "Savings",
+      "Balance": 10738.13,
+      "OpenDate": "2024-06-22",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00178",
+      "CustomerEmail": "customer64@email.com",
+      "AccountType": "Savings",
+      "Balance": 7686.23,
+      "OpenDate": "2025-04-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00179",
+      "CustomerEmail": "customer93@email.com",
+      "AccountType": "Savings",
+      "Balance": 32271.4,
+      "OpenDate": "2025-11-24",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00180",
+      "CustomerEmail": "customer21@email.com",
+      "AccountType": "Savings",
+      "Balance": 800.33,
+      "OpenDate": "2025-02-12",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00181",
+      "CustomerEmail": "customer97@email.com",
+      "AccountType": "Checking",
+      "Balance": 43194.96,
+      "OpenDate": "2025-02-01",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00182",
+      "CustomerEmail": "customer91@email.com",
+      "AccountType": "Checking",
+      "Balance": 24379.43,
+      "OpenDate": "2025-08-06",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00183",
+      "CustomerEmail": "customer65@email.com",
+      "AccountType": "Checking",
+      "Balance": 41011.19,
+      "OpenDate": "2025-03-09",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00184",
+      "CustomerEmail": "customer57@email.com",
+      "AccountType": "Savings",
+      "Balance": 15440.16,
+      "OpenDate": "2024-11-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00185",
+      "CustomerEmail": "customer43@email.com",
+      "AccountType": "Savings",
+      "Balance": 27584.98,
+      "OpenDate": "2024-10-29",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00186",
+      "CustomerEmail": "customer8@email.com",
+      "AccountType": "Savings",
+      "Balance": 47815.63,
+      "OpenDate": "2025-03-31",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00187",
+      "CustomerEmail": "customer78@email.com",
+      "AccountType": "Checking",
+      "Balance": 33451.27,
+      "OpenDate": "2025-10-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00188",
+      "CustomerEmail": "customer61@email.com",
+      "AccountType": "Savings",
+      "Balance": 870.44,
+      "OpenDate": "2024-06-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00189",
+      "CustomerEmail": "customer27@email.com",
+      "AccountType": "Checking",
+      "Balance": 26885.85,
+      "OpenDate": "2024-09-11",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00190",
+      "CustomerEmail": "customer32@email.com",
+      "AccountType": "Checking",
+      "Balance": 21004.33,
+      "OpenDate": "2025-05-17",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00191",
+      "CustomerEmail": "customer31@email.com",
+      "AccountType": "Checking",
+      "Balance": 26236.55,
+      "OpenDate": "2025-01-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00192",
+      "CustomerEmail": "customer48@email.com",
+      "AccountType": "Savings",
+      "Balance": 49491.96,
+      "OpenDate": "2024-12-26",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00193",
+      "CustomerEmail": "customer57@email.com",
+      "AccountType": "Savings",
+      "Balance": 40987.95,
+      "OpenDate": "2025-10-30",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00194",
+      "CustomerEmail": "customer84@email.com",
+      "AccountType": "Checking",
+      "Balance": 30191.77,
+      "OpenDate": "2025-01-01",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00195",
+      "CustomerEmail": "customer15@email.com",
+      "AccountType": "Checking",
+      "Balance": 20331.64,
+      "OpenDate": "2025-09-07",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00196",
+      "CustomerEmail": "customer63@email.com",
+      "AccountType": "Savings",
+      "Balance": 32611.83,
+      "OpenDate": "2025-03-11",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00197",
+      "CustomerEmail": "customer19@email.com",
+      "AccountType": "Checking",
+      "Balance": 3348.52,
+      "OpenDate": "2024-12-08",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00198",
+      "CustomerEmail": "customer44@email.com",
+      "AccountType": "Savings",
+      "Balance": 12541.2,
+      "OpenDate": "2024-11-05",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00199",
+      "CustomerEmail": "customer89@email.com",
+      "AccountType": "Checking",
+      "Balance": 40514.32,
+      "OpenDate": "2025-12-19",
+      "Status": "Active"
+    },
+    {
+      "AccountID": "CB00200",
+      "CustomerEmail": "customer35@email.com",
+      "AccountType": "Savings",
+      "Balance": 5264.41,
+      "OpenDate": "2025-04-17",
+      "Status": "Active"
+    }
+  ],
+  "bank_name": "Community Bank",
+  "export_date": "2026-03-09T21:39:20.216345"
+}

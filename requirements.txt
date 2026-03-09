@@ -1,0 +1,18 @@
+# Core Data Science Libraries 
+pandas
+numpy
+scipy
+ 
+# Database 
+sqlalchemy
+ 
+# Visualization 
+matplotlib
+seaborn
+plotly
+ 
+# Machine Learning 
+scikit-learn
+ 
+# Data Generation 
+Faker
